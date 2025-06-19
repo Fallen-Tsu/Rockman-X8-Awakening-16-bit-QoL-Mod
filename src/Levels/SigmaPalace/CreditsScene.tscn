@@ -81,7 +81,7 @@ position = Vector2( 26, -30 )
 z_index = 1
 frames = ExtResource( 9 )
 animation = "idle"
-frame = 29
+frame = 55
 playing = true
 flip_h = true
 
@@ -146,7 +146,7 @@ bbcode_text = "[center]
 [color=#21FFDE]Awakening[/color]
 16-bit
 
-A [color=#2142FF]Fallen_Tsu[/color] Mod
+A [color=#2142FF]Kohiiiiro[/color] Mod
 
 [color=#FF00FF]Secret Code[/color]
 [color=#47a1fc](use on Title Screen)[/color]
@@ -265,7 +265,7 @@ Rockman X8
 Awakening
 16-bit
 
-A Fallen_Tsu Mod
+A Kohiiiiro Mod
 
 Secret Code
 (use on Title Screen)
